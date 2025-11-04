@@ -153,9 +153,9 @@ Looking forward to seeing you there!
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-📫 [your.email@example.com](santhoseajms@gmail.com)  
-🔗 [https://github.com/](https://github.com/Santhose-DOC)
+**SANTHOSE AROCKIARAJ J**  
+📫 [santhoseajms@gmail.com](santhoseajms@gmail.com)  
+🔗 [https://github.com/Santhose-DOC](https://github.com/Santhose-DOC)
 
 ---
 
