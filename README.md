@@ -133,13 +133,14 @@ Looking forward to seeing you there!
 ---
 
 ## 📁 Project Structure
+```
 📦 crewai-whatsapp-email-assistant
 │
 ├── .env # API key file
 ├── requirements.txt # Dependencies
 ├── assistant.py # Main source code
 └── README.md # Project documentation
-
+```
 
 ---
 
